@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+}
+
+#faqList {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.faqItem {
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.faqItem h2 {
+    margin: 0;
+}
+
+.faqItem p {
+    margin-top: 5px;
+    color: #555;
+}
